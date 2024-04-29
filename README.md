@@ -22,9 +22,9 @@ Hiupy es una aplicación de inventario y planificación alimentaria. Junto a nos
 >
 > Equipo: c16-04-m-node-react
 >
-> Stack: React - Node
+> Stack: React-Node-Express-PostgreSQL
 
->Deploy: https://hiupy.vercel.app/home
+>Deploy: https://hiupy.vercel.app/
 
 <br/>
 
